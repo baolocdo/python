@@ -6,6 +6,7 @@
     "angular": "latest",
     "angular-resource": "latest",
     "angular-cookies": "latest",
+    "angular-material": "latest",
     "angular-mocks": "latest",
     "angular-route": "latest",
     "bootstrap": "3.1.1",
