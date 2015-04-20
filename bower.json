@@ -4,9 +4,11 @@
   "dependencies": {
     "jquery": "1.x",
     "angular": "latest",
+    "angular-animate": "v1.3.x",
+    "angular-aria": "latest",
+    "angular-material": "latest",
     "angular-resource": "latest",
     "angular-cookies": "latest",
-    "angular-material": "latest",
     "angular-mocks": "latest",
     "angular-route": "latest",
     "bootstrap": "3.1.1",
