@@ -1,14 +1,16 @@
 {
   "core": {
     "css": {
-      "bower_components/build/css/dist.min.css": []
+      "bower_components/build/css/dist.min.css": [
+        "bower_components/angular-material/angular-material.css"
+      ]
     },
     "js": {
       "bower_components/build/js/dist.min.js": [
         "bower_components/jquery/dist/jquery.min.js",
         "bower_components/angular/angular.js",
-        "bower_components/angular-animate/angular-animate.js",
         "bower_components/angular-aria/angular-aria.js",
+        "bower_components/angular-animate/angular-animate.js",
         "bower_components/angular-material/angular-material.js",
         "bower_components/angular-mocks/angular-mocks.js",
         "bower_components/angular-cookies/angular-cookies.js",
