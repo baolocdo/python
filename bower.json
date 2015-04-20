@@ -6,7 +6,7 @@
     "angular": "latest",
     "angular-animate": "v1.3.x",
     "angular-aria": "latest",
-    "angular-material": "latest",
+    "angular-material": "master",
     "angular-resource": "latest",
     "angular-cookies": "latest",
     "angular-mocks": "latest",
