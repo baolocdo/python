@@ -4,7 +4,7 @@
   "dependencies": {
     "jquery": "1.x",
     "angular": "latest",
-    "angular-animate": "v1.3.x",
+    "angular-animate": "latest",
     "angular-aria": "latest",
     "angular-material": "master",
     "angular-resource": "latest",
