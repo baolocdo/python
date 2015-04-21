@@ -75,8 +75,12 @@
   },
   "devDependencies": {
     "grunt-concurrent": "^1.0.0",
+    "grunt-contrib": "latest",
     "grunt-contrib-watch": "^0.6.1",
+    "grunt-cli": "latest",
+    "grunt-hook": "latest",
     "grunt-nodemon": "^0.4.0",
+    "load-grunt-tasks": "latest",
     "requirejs": "^2.1.11",
     "should": "3.3.1",
     "supertest": "0.11.0"
